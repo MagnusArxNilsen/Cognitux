@@ -1,2 +1,2 @@
 # Cognitux 
-Clockworks; variables, value relative with time.
+Clockworks; value relative with time variables.
