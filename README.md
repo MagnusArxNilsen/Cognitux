@@ -1,2 +1,2 @@
 # Cognitux 
-Clockworks; clock-dependent variables.
+Clockwork; clock-dependent variables.
