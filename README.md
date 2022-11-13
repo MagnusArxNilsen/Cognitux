@@ -1,2 +1,2 @@
 # Cognitux 
-Clockwork; clock-dependent variables.
+A broken clock is right twice a day!
