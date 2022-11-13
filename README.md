@@ -1,2 +1,2 @@
 # Cognitux 
-A broken clock is right twice a day!
+Even a broken clock is right twice a day!
